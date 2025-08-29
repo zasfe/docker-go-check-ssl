@@ -1,0 +1,1 @@
+# docker-go-check-ssl
